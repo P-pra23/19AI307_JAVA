@@ -12,7 +12,7 @@ a)	Returns the sum of `num1` and `num2`
 5.	Define a public method `display(int n1, int n2)` that:
 a)	Assigns `n1` to `num1` and `n2` to `num2`
 b)	Calls the `add()` method and prints the result using `System.out.println`
-6.	Define the `main` method as static
+6.	Define the `main` method as statica
 a)	Create an instance of the `addition` class called `ad`
 b)	Call the `display(8, 9)` method on the `ad` object
 7.	End
@@ -26,13 +26,29 @@ b)	Call the `display(8, 9)` method on the `ad` object
  ```
 /*
 Program to implement a access modifiers using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Mohamed Zabir Khan A
+RegisterNumber: 212224230162 
 */
 ```
 
 ## Sourcecode.java:
 
+```
+public class A
+{ 
+    private void display() 
+    { 
+        int a=8,b=9;
+        System.out.println(a+b); 
+    }
+    public static void main(String args[])
+    {
+        A obj= new A();
+        obj.display();
+    }
+}
+
+```
 
 
 
@@ -41,9 +57,12 @@ RegisterNumber:
 
 ## OUTPUT:
 
+```
+Expected    Got 
 
+17          17
+```
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
-
 
