@@ -26,8 +26,8 @@ b)	Call the `display(8, 9)` method on the `ad` object
  ```
 /*
 Program to implement a access modifiers using Java
-Developed by: Mohamed Zabir Khan A
-RegisterNumber: 212224230162 
+Developed by: Prathikshaa
+RegisterNumber: 212224100043
 */
 ```
 
