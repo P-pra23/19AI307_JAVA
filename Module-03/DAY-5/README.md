@@ -25,8 +25,8 @@ Step 5: End
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: Mohamed Zabir Khan A
-RegisterNumber: 212224230162
+Developed by: Prathikshaa
+RegisterNumber: 212224100043
 */
 ```
 
