@@ -18,8 +18,8 @@ To Create a java program to print the sum of two number using getter and setter 
 ## PROGRAM:
  ```
 Program to implement a Getter and Setter using Java
-Developed by: Mohamed Zabir Khan A
-RegisterNumber: 212224230162
+Developed by: Prathikshaa
+RegisterNumber: 212224100043
 ```
 
 ## Sourcecode.java:
