@@ -42,8 +42,8 @@ To Create a java program to display the age of the person.Use access modifier pr
  ```
 /*
 Program to implement a Data Hiding & Encapsulation using Java
-Developed by: Mohamed Zabir Khan A
-RegisterNumber: 212224230162
+Developed by: Prathikshaa
+RegisterNumber: 212224100043
 */
 ```
 
