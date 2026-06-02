@@ -20,8 +20,8 @@ To create a Java program using constructor to print the circumference of rectang
  ```
 /*
 Program to implement a Constructor using Java
-Developed by: Mohamed Zabir Khan A
-RegisterNumber: 212224230162
+Developed by:Prathikshaa
+RegisterNumber: 212224100043
 */
 ```
 
